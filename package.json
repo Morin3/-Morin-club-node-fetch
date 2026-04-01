@@ -47,7 +47,7 @@
     "abort-controller": "^3.0.0",
     "abortcontroller-polyfill": "^1.7.1",
     "busboy": "^1.4.0",
-    "c8": "^9.0.0",
+    "c8": "^11.0.0",
     "chai": "^4.3.4",
     "chai-as-promised": "^7.1.1",
     "chai-iterator": "^3.0.2",
@@ -59,7 +59,7 @@
     "p-timeout": "^5.0.0",
     "stream-consumers": "^1.0.1",
     "tsd": "^0.17.0",
-    "xo": "^0.40.3"
+    "xo": "^0.41.0"
   },
   "dependencies": {
     "data-uri-to-buffer": "^4.0.0",
